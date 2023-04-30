@@ -1,0 +1,54 @@
+.main{
+    text-align: center;
+    background-color: aqua; 
+    color: blueviolet;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px red;
+    font-style: italic;
+    font-size: 35px;
+}
+
+img{
+    size: 40px;
+    height: 300px;
+    width: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.king{
+    text-align: center;
+    background-color: beige;
+    color: brown;
+    text-shadow: 2px 2px fuchsia;
+    font-style: italic;
+}
+
+p{
+    background-color:skyblue;
+    color: black;
+    text-shadow: none;
+    font-style: italic;
+    font-size: medium;
+    font-size: 21px;
+    
+}
+
+.vk{
+    text-align: center;
+    font-size: 100%;
+    background-color: bisque;
+    color: blue;
+    font-size: 70px;
+    font-style: italic;
+
+
+}
+
+ul{
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+}
